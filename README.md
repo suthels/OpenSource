@@ -8,21 +8,17 @@
 
 ## 安装主题
 
-
+### 克隆我的地址
 ```shell
-# 克隆我的地址
 git clone  git@github.com:suthels/OpenSource.git
 ```
-
+### 直接下载仓库内容[直接下载]
 ```shell
-# 直接下载仓库内容
-[直接下载](https://github.com/suthels/OpenSource.git)
+(https://github.com/suthels/OpenSource.git)
 ```
-
-## 参考文献
-
 
 #### 官方店铺
 
 - homepage：[面包多]https://mbd.pub/o/eternity/work
 - 微信公众号：群智能算法小狂人
+- [公众号免费资源专栏](https://mp.weixin.qq.com/mp/homepage?__biz=MzAxMjg5NzQ5OQ==&hid=7&sn=fd7dbf0a28ea2c5d2bd11388b718f40f&scene=18)
